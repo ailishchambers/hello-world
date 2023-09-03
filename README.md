@@ -3,7 +3,7 @@ The hello-world repository is great for storing ideas, resources, or even sharin
 
 --- 
 **Introduction**
-* A little about me *
+*A little about me*
 My name is Ailish Chambers, and my GitHub username is **ailishchambers**. I'm a Senior from Westlake, OH, I have two siblings and used to live in McGlinn Hall! My top three favorite movies are:
 - Grownups
 - Good Will Hunting
